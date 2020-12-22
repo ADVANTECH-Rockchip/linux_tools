@@ -69,3 +69,28 @@ v1.48 revision:
 
 v1.49 revision:
 1.support to switch uvc into rockusb
+
+v1.5 revision
+1.add log on download image
+
+v1.51 revision
+1.support nor flash erase
+
+v1.52 revision
+1.support ubi image download
+
+v1.53 revision
+1.support New IDB download
+
+v1.54 revision
+1.add gpt command for converting parameter into gpt image
+
+v1.55 revision
+1.support to run repeatly
+
+v1.56 revision
+1.support to download loader on spi/sfc nand flash(4k page)
+
+v1.57 revision
+1.fix download ubi image bug
+
